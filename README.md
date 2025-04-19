@@ -13,4 +13,4 @@ These designs were created for:
 
 - Adobe Photoshop
 - Adobe Illustrator
-- Canva
+
